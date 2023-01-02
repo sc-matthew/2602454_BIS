@@ -2,7 +2,7 @@
 ---
 * github: https://github.com/prasertcbs/454_2566.git
 * [cheat sheet](https://github.com/prasertcbs/cheatsheet) 
-# Week 1: 11-Jan-2022
+# Week 1: 11-Jan-2023
 * [ ] [week 1 clips](week1_clips.md)
 ## books
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
