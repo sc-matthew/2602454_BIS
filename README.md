@@ -4,6 +4,12 @@
 * [cheat sheet](https://github.com/prasertcbs/cheatsheet) 
 # Week 1: 11-Jan-2022
 * [ ] [week 1 clips](week1_clips.md)
+## books
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+	- [Jupyter Notebook on github](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646?crid=IKBDA8I0HK7M&keywords=ML+with+Scikitlearn+and+Tensorflow&qid=1665199008&s=books&sprefix=ml+with+scikitlearn+and+tensorflow,stripbooks-intl-ship,167&sr=1-1&linkCode=sl1&tag=thuvu07-20&linkId=9ae74f9edc4575bb1ad3147409df4a53&language=en_US&ref_=as_li_ss_tl)
+- [The Machine Learning Simplified: A Gentle Introduction to Supervised Learning](https://www.amazon.com/dp/B0B216KMM4/qid=1653304321)
 ## [How to ask question](https://stackoverflow.com/help/how-to-ask)
 ## [Stack Overflow Survey 2022](https://survey.stackoverflow.co/2022/#technology-most-popular-technologies)
 ## Intro to data science
