@@ -40,7 +40,7 @@
 pip install -U nodejs
 pip install -U jupyterlab ipywidgets
 pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader
-pip install -U plotly cufflinks chart_studio kaleido orjson
+pip install -U plotly
 pip install -U psycopg2-binary
 pip install -U ipython-sql pgspecial
 pip install -U graphviz
@@ -104,3 +104,41 @@ pip cache purge
 * [ ] [cheat sheet](https://github.com/prasertcbs/cheatsheet)
 * [ ] [pandas documentation](https://pandas.pydata.org/docs/)
 * [ ] [Kaggle](https://www.kaggle.com/)
+# Week 2: 18-Jan-2023
+* [ ] [week 2 clips](./week2_clips.md)
+## intro to pandas
+## [Read data techniques](https://www.youtube.com/watch?v=fNJb52eMLNg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=97)
+* [ ] separator
+* [ ] na_values
+## Data selection
+* [ ] [Series](https://www.youtube.com/watch?v=dX6COdB7yRo&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=22)
+  * [ ] index (as dictionary), slice
+* [ ] [DataFrame](https://www.youtube.com/watch?v=NrcAJFJo1R4&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=23)
+  * [ ] index, slice
+  * [ ] [loc](https://www.youtube.com/watch?v=k5rjyOhG3kg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=74)
+  * [ ] [iloc](https://www.youtube.com/watch?v=2mRwQ2_p0Ws&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=76)
+## Data types
+* [ ] number (int, float)
+* [ ] object
+  * [ ] [to_numeric](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_numeric.html)
+## EDA
+* [ ] describe()
+* [ ] aggregate functions
+* [ ] correlation
+* [ ] visualizing data
+  * [ ] histogram
+  * [ ] boxplot
+  * [ ] scatterplot
+## Extra:
+* [ ] Customize your `terminal`
+  * [ ] `Windows` (PowerShell)
+    * [ ] Install Windows Terminal from Microsoft Store
+    * [ ] [Install PowerShell 7](https://www.youtube.com/watch?v=FFLrObUKgwg)
+    * [ ] [Install Oh-my-posh](https://www.youtube.com/watch?v=Soiqw0ooFRM)
+    * [ ] [Customize Windows Terminal](https://www.youtube.com/watch?v=hgx1JnU5B4k)
+  * [ ] `macOS`
+    * [ ] [Install homebrew](https://www.youtube.com/watch?v=48oicKQ2qgQ)
+    * [ ] Install iterm2 via homebrew
+      * [ ] `brew install --cask iterm2`
+    * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
+---
