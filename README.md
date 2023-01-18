@@ -142,3 +142,30 @@ pip cache purge
       * [ ] `brew install --cask iterm2`
     * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
 ---
+---
+# Week 3: 25-Jan-2023
+* [ ] [week 3 pandas clips](./week3_clips.md)
+* [ ] [week 3 visualization with seaborn clips](./4%20seaborn.md)
+## team assignment 1 due @10:30
+## [Read data techniques](https://www.youtube.com/watch?v=fNJb52eMLNg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=97)
+* [ ] nrows
+* [ ] parse_dates
+* [ ] sample
+* [ ] transpose
+* [ ] read Excel from URL
+  * [ ] [disney](https://github.com/prasertcbs/basic-dataset/raw/master/disney_movie/clean/disney.xlsx)
+* [ ] read html table from web
+  * [ ] [most-followed Instagram accounts](https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts)
+## Save data technique
+* [ ] csv
+* [ ] Excel
+## Data types
+* [ ] [category](https://youtu.be/ulDIl1E_VVA)
+  * [ ] astype('category')
+* [ ] [datetime](https://youtu.be/Zfp5YVZtwYc)
+  * [ ] [to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+## Missing values
+* [ ] [sample data](https://github.com/prasertcbs/basic-dataset/raw/master/msleep.csv)
+## Data cleansing
+* [ ] basic regular expression
+---
