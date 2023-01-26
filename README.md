@@ -169,3 +169,55 @@ pip cache purge
 ## Data cleansing
 * [ ] basic regular expression
 ---
+# Week 4: 1-Feb-2023
+* [ ] [week 4 clips](./week4_clips.md)
+## Internship
+* [ ] ~ 2 months (~300 hours) 
+  * [ ] during summer (June-August)
+  * [ ] during first semester (August-December)
+## Build your data science portfolio
+* [ ] [Kaggle](https://www.kaggle.com/)
+  * [ ] create account
+    * [ ] kaggle_user_id: `mis6xxxxxxxx`
+  * [ ] notebook
+    * [ ] create
+      * [ ] [Top 200 common passwords Data](https://www.kaggle.com/prasertk/top-200-common-passwords-in-2021/data)
+    * [ ] copy & edit
+      * [ ] [Apple product price lists Data](https://www.kaggle.com/prasertk/apple-product-price-list-from-26-countries-2022)
+      * [ ] [Apple product price lists Notebook](https://www.kaggle.com/prasertk/clean-apple-product-price-lists-across-countries)
+    * [ ] download
+    * [ ] upload
+  * [ ] share notebook
+    * [ ] private
+    * [ ] public
+  * [ ] download data
+    * [ ] [Apple product price lists](https://www.kaggle.com/prasertk/apple-product-price-list-from-26-countries-2022)
+  * [ ] create data
+    * [ ] private
+    * [ ] public
+      * [ ] [Retirement-Index-2022-Final-Scores.csv](https://internationalliving.com/the-best-places-to-retire/)
+## Regular expression (regex)
+* [ ] concepts
+* [ ] [regex101](https://regex101.com/)
+  * [ ] [Sample data](https://regex101.com/r/clQQFg/1)
+  * [ ] [lookbehind](https://regex101.com/r/ptNCNj/1)
+    * [ ] `(?<=\d)o`
+* [ ] [cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
+### pandas str.*
+* [ ] str.split
+* [ ] str.replace
+* [ ] str.contains
+* [ ] str.match
+* [ ] str.extract
+* [ ] str.extractall
+## Keyboard shortcuts
+| Action          | Shortcut                                        |
+|-----------------|-------------------------------------------------|
+| Select line     | <kbd>Ctrl</kbd>+<kbd>L</kbd>                    |
+| Unindent code   | <kbd>Ctrl</kbd>+<kbd>[</kbd>                    |
+| Indent code     | <kbd>Ctrl</kbd>+<kbd>]</kbd>                    |
+| Move line up    | <kbd>Alt</kbd>+<kbd>Up</kbd>                    |
+| Move line down  | <kbd>Alt</kbd>+<kbd>Down</kbd>                  |
+| Copy line down  | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Down</kbd> |
+| Format document | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>    |
+---
