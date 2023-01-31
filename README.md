@@ -175,6 +175,54 @@ pip cache purge
 * [ ] ~ 2 months (~300 hours) 
   * [ ] during summer (June-August)
   * [ ] during first semester (August-December)
+## [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+> source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
+> `Understanding the dataset` can refer to a number of things including but not limited to…  
+> * [ ] `Extracting` important variables and leaving behind useless variables
+> * [ ] `Identifying` outliers, missing values, or human error
+> * [ ] `Understanding` the relationship(s), or lack of, between variables
+> * [ ] `Maximizing` your insights of a dataset and minimizing potential error that may occur later in the process
+## [The 4 C's of Data Cleansing](https://www.youtube.com/watch?v=3PZO2gp6FqY&list=PLoTScYm9O0GGy2PPCMxVb62bUJXqsY-DL)
+1. **Correcting:** 
+   * unreasonable values
+      * `age = 150` or `age = 50`
+   * [outliers](https://youtu.be/G25GGFrSKPM)
+   * [duplicated rows](https://youtu.be/wO2KzbYKNFY)
+1. **Completing:**
+   * imputing missing values
+     * [techniques](https://www.youtube.com/watch?v=Jc5KOan46Ik&list=PLoTScYm9O0GHJo6Cjs3489MO4SYgllCOw)
+     * [impute value](https://youtu.be/T2yT5vt1NaQ) (mean, mode, etc)
+2. **Converting:** 
+   * categorical data to dummy variable
+   * 5'6" to 5.5 or 5.5 * 2.54
+   * 3-1-70 (rai-ngan-wah) -> 570 sq_wah
+   * `yes` to `1`, `no` to `0`
+   * `1.7m to 1.7`
+   * `$12.7m to 12700000` 
+3. **Creating:**
+   * [create]
+     * age from birthdate
+   * [cut](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html?highlight=cut#pandas.cut), [qcut](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.qcut.html)
+     * [cut into category](https://youtu.be/W9NzO7iLVbY)
+       * grade
+         * 85-100 -> A
+         * 70-84  -> B
+         * 60-79  -> C
+         * 50-59  -> D
+         *  0-49  -> F 
+     * [quantile cut]
+       * quartile
+       * decile
+   * extract/split new variables/features from existing feature
+     * `Mr. Peter Parker` 
+         * title: `Mr.`
+         * gender: `male`
+     * `Toy Story (1995)`
+         * title: `Toy Story`
+         * year: `1995`
+     * `13.7314029,100.5392509`
+         * lat: 13.7314029
+         * lon: 100.5392509
 ## Build your data science portfolio
 * [ ] [Kaggle](https://www.kaggle.com/)
   * [ ] create account
@@ -199,15 +247,26 @@ pip cache purge
 ## Regular expression (regex)
 * [ ] concepts
 * [ ] [regex101](https://regex101.com/)
+  * [ ] [movie data](https://regex101.com/r/KgkWcU/1)
+    * [ ] greedy
+      * [ ] `\(.*\)`
+    * [ ] lazy
+      * [ ] `\(.*?\)`
+    * [ ] \d{4} inside ()
+      * [ ] `\((\d{4}?)\)`
+      * [ ] `(?<=\()\d{4}(?=\))`
   * [ ] [Sample data](https://regex101.com/r/clQQFg/1)
+  * [ ] [lookahead](https://regex101.com/r/ptNCNj/1)
+    * [ ] `\w+(?=@)`
   * [ ] [lookbehind](https://regex101.com/r/ptNCNj/1)
-    * [ ] `(?<=\d)o`
+    * [ ] `(?<=@).*`
 * [ ] [cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
 ### pandas str.*
 * [ ] str.split
 * [ ] str.replace
 * [ ] str.contains
 * [ ] str.match
+* [ ] str.findall
 * [ ] str.extract
 * [ ] str.extractall
 ## Keyboard shortcuts
