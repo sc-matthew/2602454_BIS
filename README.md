@@ -228,6 +228,8 @@ pip cache purge
   * [ ] create account
     * [ ] kaggle_user_id: `mis6xxxxxxxx`
   * [ ] notebook
+    * [ ] assignment 2
+      * [ ] [gran turismo 7](https://www.kaggle.com/datasets/prasertk/gran-turismo-7-car-list)
     * [ ] create
       * [ ] [Top 200 common passwords Data](https://www.kaggle.com/prasertk/top-200-common-passwords-in-2021/data)
     * [ ] copy & edit
