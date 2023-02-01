@@ -142,7 +142,6 @@ pip cache purge
       * [ ] `brew install --cask iterm2`
     * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
 ---
----
 # Week 3: 25-Jan-2023
 * [ ] [week 3 pandas clips](./week3_clips.md)
 * [ ] [week 3 visualization with seaborn clips](./4%20seaborn.md)
@@ -281,4 +280,11 @@ pip cache purge
 | Move line down  | <kbd>Alt</kbd>+<kbd>Down</kbd>                  |
 | Copy line down  | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Down</kbd> |
 | Format document | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>    |
+---
+# Week 5: 8-Feb-2023
+* [ ] Q&A week 1-4 clips
+* [ ] EDA (Exploratory Data Analysis)
+  * [ ] Story
+  * [ ] Table
+  * [ ] Chart
 ---
