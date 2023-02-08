@@ -304,6 +304,11 @@ pip cache purge
 - [ ] Selenium
 ## Postman
 - [ ] [download](https://www.postman.com/downloads/)
+  - [ ] Worldbank
+    - [ ] [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581)
+      - [ ] https://api.worldbank.org/v2/country/all/indicator/AG.AGR.TRAC.NO?format=json
+      - [ ] https://api.worldbank.org/v2/country/ind/indicator/AG.AGR.TRAC.NO?source=2&downloadformat=csv
+      - [ ] https://api.worldbank.org/v2/country/ind/indicator/AG.AGR.TRAC.NO?source=2&downloadformat=excel
   - [ ] Ministry of Commerce
     - [ ] [API](https://data.moc.go.th/developer)
         - [ ] [Pork](https://dataapi.moc.go.th/gis-product-prices?product_id=P11001&from_date=2020-01-01&to_date=2022-02-28)
