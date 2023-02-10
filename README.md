@@ -292,16 +292,19 @@ pip cache purge
   * [ ] [Example: Netflix cost around the world](https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/)
 ---
 # Week 6: 10-Feb-2023
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 22 กุมภาพันธ์ 2566 (15 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] No Internet connection during quiz
+  * [ ] Use machine in computer lab ONLY
 * [ ] [week 6 Web scraping](./week6_clips.md)
 ## No-code web scraping
 - [ ] Instant Data Scraper (browser extension)
   - [ ] [Godiva](https://www.godiva.com/valentines-day-gifts)
   - [ ] [Starbucks Japan](https://product.starbucks.co.jp/tumblermug/mug/)
-## Web scraping
-- [ ] [CSS selector](https://www.w3schools.com/cssref/css_selectors.php)
-- [ ] requests + beautifulsoup4
-  - [ ] [Honda Thailand](https://www.honda.co.th/models)
-- [ ] Selenium
+## Developer tools: Network: XHR
+- [ ] [top worst passwords](https://nordpass.com/most-common-passwords-list/)
+  - [ ] https://nordpass.com/json-data/top-worst-passwords/findings/all.json
+- [ ] [Starbucks UK](https://www.starbucks.co.uk/menu/drinks/espresso-drinks)
+  - [ ] https://www.starbucks.co.uk/api/v1/menu
 ## Postman
 - [ ] [download](https://www.postman.com/downloads/)
   - [ ] Worldbank
@@ -312,10 +315,15 @@ pip cache purge
   - [ ] Ministry of Commerce
     - [ ] [API](https://data.moc.go.th/developer)
         - [ ] [Pork](https://dataapi.moc.go.th/gis-product-prices?product_id=P11001&from_date=2020-01-01&to_date=2022-02-28)
+# Week 7: 15-Feb-2023
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 22 กุมภาพันธ์ 2566 (15 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] No Internet connection during quiz
+  * [ ] Use machine in computer lab ONLY
+* [ ] [week 7 Web scraping](./week6_clips.md)
 ## HTML table
 - [ ] [GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))
-## Developer tools: Network: XHR
-- [ ] [top worst passwords](https://nordpass.com/most-common-passwords-list/)
-  - [ ] https://nordpass.com/json-data/top-worst-passwords/findings/all.json
-- [ ] [Starbucks UK](https://www.starbucks.co.uk/menu/drinks/espresso-drinks)
-  - [ ] https://www.starbucks.co.uk/api/v1/menu
+## Web scraping
+- [ ] [CSS selector](https://www.w3schools.com/cssref/css_selectors.php)
+- [ ] requests + beautifulsoup4
+  - [ ] [Honda Thailand](https://www.honda.co.th/models)
+- [ ] Selenium
