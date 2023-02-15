@@ -307,6 +307,7 @@ pip cache purge
   - [ ] https://www.starbucks.co.uk/api/v1/menu
 ## Postman
 - [ ] [download](https://www.postman.com/downloads/)
+  - [ ] Food panda
   - [ ] Worldbank
     - [ ] [API](https://datahelpdesk.worldbank.org/knowledgebase/articles/898581)
       - [ ] https://api.worldbank.org/v2/country/all/indicator/AG.AGR.TRAC.NO?format=json
@@ -327,3 +328,4 @@ pip cache purge
 - [ ] requests + beautifulsoup4
   - [ ] [Honda Thailand](https://www.honda.co.th/models)
 - [ ] Selenium
+- https://www.coopsandcages.com.au/blog/ultimate-list-birds-breeds/
