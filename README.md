@@ -316,6 +316,7 @@ pip cache purge
   - [ ] Ministry of Commerce
     - [ ] [API](https://data.moc.go.th/developer)
         - [ ] [Pork](https://dataapi.moc.go.th/gis-product-prices?product_id=P11001&from_date=2020-01-01&to_date=2022-02-28)
+---
 # Week 7: 15-Feb-2023
 * [ ] **สอบย่อยครั้งที่ 1 วันที่ 22 กุมภาพันธ์ 2566 (15 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
   * [ ] No Internet connection during quiz
@@ -328,4 +329,9 @@ pip cache purge
 - [ ] requests + beautifulsoup4
   - [ ] [Honda Thailand](https://www.honda.co.th/models)
 - [ ] Selenium
-- https://www.coopsandcages.com.au/blog/ultimate-list-birds-breeds/
+---
+# Week 8: 22-Feb-2023
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 22 กุมภาพันธ์ 2566 (15 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] No Internet connection during quiz
+  * [ ] Use machine in computer lab ONLY
+
