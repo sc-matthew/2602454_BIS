@@ -335,3 +335,18 @@ pip cache purge
   * [ ] No Internet connection during quiz
   * [ ] Use machine in computer lab ONLY
 
+---
+# Week 9: 1-Mar-2023
+* [ ] [📺 week 9 clips](./week9_clips.md)
+## [Intro to scikit-learn](https://www.youtube.com/watch?v=AdDvPCarDyI&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU)
+* Supervised Learning
+  * [ ] [Linear regression](https://www.youtube.com/watch?v=PC7Zk_u6g4w&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=4)
+  * [ ] [Missing values](https://www.youtube.com/watch?v=Jc5KOan46Ik&list=PLoTScYm9O0GHJo6Cjs3489MO4SYgllCOw)
+  * [ ] [Impute missing data](https://www.youtube.com/watch?v=T2yT5vt1NaQ&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=7)
+  * [ ] Dummy variables
+    * [ ] [pandas get_dummies](https://www.youtube.com/watch?v=rGF1jY5tvCk&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=5)
+    * [ ] [OneHotEncoder](https://www.youtube.com/watch?v=CHa8n7wORrU&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=41)
+## [ ] Exercise
+* [ ] [used cars](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars.csv)
+  * [ ] [with missing values](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars_with_missing_values.csv)
+
