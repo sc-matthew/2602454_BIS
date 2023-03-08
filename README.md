@@ -346,8 +346,11 @@ pip cache purge
     - [ ] [pandas get_dummies](https://www.youtube.com/watch?v=rGF1jY5tvCk&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=5)
     - [ ] [OneHotEncoder](https://www.youtube.com/watch?v=CHa8n7wORrU&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU&index=41)
   - [ ] [Decision Tree Regressor](https://www.kaggle.com/datasets/prasertk/food-tasty)
-## Exercises
+---
+# Week 11: 15-Mar-2023
+- [ ] [📺 week 10 clips](./week9_clips.md)
+## Regression Exercises
 - [ ] [Wireless speaker rating and price](https://www.kaggle.com/datasets/prasertk/wireless-speaker-rating)
 - [ ] [used cars](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars.csv)
   - [ ] [with missing values](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars_with_missing_values.csv)
-
+---
