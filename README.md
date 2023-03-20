@@ -354,3 +354,16 @@ pip cache purge
 - [ ] [used cars](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars.csv)
   - [ ] [with missing values](https://github.com/prasertcbs/basic-dataset/blob/master/usedcars_with_missing_values.csv)
 ---
+# Week 12: 29-Mar-2023
+* [ ] [📝 Digital literacy survey](https://cbschula.qualtrics.com/jfe/form/SV_3WV9mgSvTqfKX3w?courseid=2602454&acad=2022&sem=1&sec=1)
+
+![](./qrcode_cbschula.qualtrics.com.png)
+
+- [ ] [📺 week 11 clips](./week11_clips.md)
+## Classification model
+* [ ] Logistic Regression
+* [ ] Confusion matrix
+* [ ] KNeighborsClassifier
+* [ ] DecisionTreeClassifier
+* [ ] RandomForestClassifier
+* [ ] lightgbm Classifier
