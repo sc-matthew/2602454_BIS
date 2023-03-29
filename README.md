@@ -360,9 +360,12 @@ pip cache purge
 ![](./qrcode_cbschula.qualtrics.com.png)
 
 - [ ] [📺 week 11 clips](./week11_clips.md)
+## Assignment
+* [ ] หาข้อมูลของประเทศไทยเพื่อนำมาวิเคราะห์ด้วย classification model (10 points)
 ## Classification model
 * [ ] Logistic Regression
 * [ ] Confusion matrix
+* [ ] ROC & AUC
 * [ ] KNeighborsClassifier
 * [ ] DecisionTreeClassifier
 * [ ] RandomForestClassifier
