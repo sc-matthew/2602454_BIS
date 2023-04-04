@@ -372,6 +372,8 @@ pip cache purge
   - [ ] scrape data from https://www.ddproperty.com/
 ## Classification model
 - [ ] KNeighborsClassifier
-- [ ] DecisionTreeClassifier
+- [ ] [DecisionTreeClassifier](./example/sklearn_decisiontree_baskin_robbins.ipynb)
 - [ ] RandomForestClassifier
 - [ ] lightgbm Classifier
+- [ ] model persistence
+  - [ ] [joblib](./example/sklearn_joblib_multiple_linear_regression_ISLR_advertising.ipynb)
