@@ -375,5 +375,6 @@ pip cache purge
 - [ ] [DecisionTreeClassifier](./example/sklearn_decisiontree_baskin_robbins.ipynb)
 - [ ] RandomForestClassifier
 - [ ] lightgbm Classifier
+- [ ] MNIST
 - [ ] model persistence
   - [ ] [joblib](./example/sklearn_joblib_multiple_linear_regression_ISLR_advertising.ipynb)
