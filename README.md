@@ -378,3 +378,12 @@ pip cache purge
 - [ ] MNIST
 - [ ] model persistence
   - [ ] [joblib](./example/sklearn_joblib_multiple_linear_regression_ISLR_advertising.ipynb)
+
+---
+# Week 14: 12-Apr-2023
+- [ ] [📺 week 14 clips](./week14_clips.md)
+
+## Unsupervised learning
+- [ ] cluster analysis
+## in class assignment (extra points)
+- [ ] TBA
