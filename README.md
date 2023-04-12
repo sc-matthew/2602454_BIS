@@ -386,4 +386,5 @@ pip cache purge
 ## Unsupervised learning
 - [ ] cluster analysis
 ## in class assignment (extra points)
-- [ ] TBA
+- [ ] [the best cities for a workation](https://www.kaggle.com/datasets/prasertk/the-best-cities-for-a-workation)
+  - source: https://www.holidu.co.uk/magazine/the-best-cities-for-a-workation
