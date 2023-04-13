@@ -388,3 +388,14 @@ pip cache purge
 ## in class assignment (extra points)
 - [ ] [the best cities for a workation](https://www.kaggle.com/datasets/prasertk/the-best-cities-for-a-workation)
   - source: https://www.holidu.co.uk/magazine/the-best-cities-for-a-workation
+
+---
+# Week 15: 19-Apr-2023
+- [ ] [📺 week 15 clips](./week15_clips.md)
+- Condo price prediction (15 points) due
+  - 10-minute presentation
+  - Jupyter Notebook
+  - dataset
+  - YouTube clip (add YouTube link into your Notebook)
+## Market basket analysis
+## Team Project (13 points) due 26-Apr-2023 9:00am
