@@ -385,14 +385,14 @@ pip cache purge
 
 ## Unsupervised learning
 - [ ] cluster analysis
-## in class assignment (extra points)
+## in class assignment (15 points)
 - [ ] [the best cities for a workation](https://www.kaggle.com/datasets/prasertk/the-best-cities-for-a-workation)
   - source: https://www.holidu.co.uk/magazine/the-best-cities-for-a-workation
 
 ---
 # Week 15: 19-Apr-2023
 - [ ] [📺 week 15 clips](./week15_clips.md)
-- Condo price prediction (15 points) due
+- Condo price prediction (13 points) due
   - 10-minute presentation
   - Jupyter Notebook
   - dataset
