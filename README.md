@@ -392,10 +392,18 @@ pip cache purge
 ---
 # Week 15: 19-Apr-2023
 - [ ] [📺 week 15 clips](./week15_clips.md)
-- Condo price prediction (13 points) due
+## Condo price prediction (13 points) due
   - 10-minute presentation
   - Jupyter Notebook
   - dataset
   - YouTube clip (add YouTube link into your Notebook)
-## Market basket analysis
-## Team Project (13 points) due 26-Apr-2023 9:00am
+
+---
+# Week 16: 26-Apr-2023
+- [ ] [📺 week 16 clips](./week15_clips.md)
+
+* [ ] [📝 Digital literacy survey #3](https://cbschula.qualtrics.com/jfe/form/SV_cSbixr06B4gzKg6?courseid=2602454&acad=2022&sem=1&sec=1&isgrad=0)
+
+![](./qrcode_cbschula.qualtrics.com.png)
+## [Market basket analysis](./week15_clips.md)
+## Team Project (13 points) due 3-May-2023 9:00am
