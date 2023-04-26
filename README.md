@@ -402,8 +402,34 @@ pip cache purge
 # Week 16: 26-Apr-2023
 - [ ] [📺 week 16 clips](./week15_clips.md)
 
-* [ ] [📝 Digital literacy survey #3](https://cbschula.qualtrics.com/jfe/form/SV_cSbixr06B4gzKg6?courseid=2602454&acad=2022&sem=1&sec=1&isgrad=0)
+- [ ] [📝 Digital literacy survey #3](https://cbschula.qualtrics.com/jfe/form/SV_cSbixr06B4gzKg6?courseid=2602454&acad=2022&sem=1&sec=1&isgrad=0)
 
 ![](./qrcode_cbschula.qualtrics.com.png)
 ## [Market basket analysis](./week15_clips.md)
 ## Team Project (13 points) due 3-May-2023 9:00am
+
+# Association
+- market basket
+  - beer & diaper
+  - target
+    - you're having a baby
+  - Up-selling and Cross-selling
+- Job description
+  - skills
+    - SQL, Excel, Python
+    - SQL, Python
+    - SQL, Python, ERP
+    - Pentest, IT Audit
+    - MS SQL Server, PostgreSQL
+    - English, Land Transportation, Logistics, Excel, Power BI
+- Streaming platform
+  - recommendation
+- Registered courses
+  - 300 courses (Elective courses)
+- Condo
+  - Built-in?
+- Tourist
+  - Bangkok
+  - Phuket
+  - Chiang Mai
+  - Pattaya
